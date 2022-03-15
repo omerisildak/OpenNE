@@ -9,9 +9,10 @@ We develop this toolkit according to the settings of DeepWalk. The implemented o
 #### Installation
 
 - Clone this repo.
-- enter the directory where you clone it, and run the following code
 - Install Conda
 - Enter cmd or terminal
+- enter the directory where you clone it, and run the following code
+
     ```bash
     conda create -n myenv python=3.6 numpy=1.14.6 networkx=2.0 scipy=0.19.1 gensim=3.0.1 scikit-learn=0.19.0 tensorflow=1.12.0 pandas=1.0.1
 
